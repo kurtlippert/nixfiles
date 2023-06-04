@@ -1,4 +1,4 @@
-# home-manager template
+# nixfiles
 
 This provides a quick-start template for using
 [home-manager](https://github.com/rycee/home-manager) in a more
